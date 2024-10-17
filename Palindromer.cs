@@ -12,10 +12,10 @@ namespace LCTesting
     * 
     * find the longest palindrome within the substring.
     * 
-    * e.g. LongestPalindrome("abba") = "abba"
-    * LongestPalindrome("gabba") = "abba"
-    * LongestPalindrome("geek") = "ee"
-    * LongestPalindrome("hi") = "h" or "i"
+    * e.g. LongestPalindrome("abba") = "abba" 
+    * LongestPalindrome("gabba") = "abba" 
+    * LongestPalindrome("massachusetts") = "ss" or "tt"
+    * LongestPalindrome("hi") = "h" or "i" 
     */
     public class Palindromer
     {
